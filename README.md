@@ -6,8 +6,8 @@ To study the problem statement, SRS document and draw all the UML diagrams of a 
 # SRS (Procedure):
 To create Student Enrollment System software that will meet the needs of the applicant and help them with student registration, course enrollment, modification in the database, and cancellation of registered courses or enrollment records.
 
-## DEVELOPED BY : V patrick alex emmanuel
-## REGISTER NO : 212224240110
+## DEVELOPED BY : S HEMANTH KUMAR
+## REGISTER NO : 212224040115
 
 # DIAGRAMS:
 
